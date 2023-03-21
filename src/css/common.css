@@ -16,3 +16,18 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer {
+  margin-top: 50px;
+
+  display: flex;
+  justify-content: center;
+  gap: 50;
+
+  font-size: 2em;
+  font-weight: 500;
+  line-height: 2.5;
+
+  border: 2px solid #212121;
+  background-color: bisque;
+}
